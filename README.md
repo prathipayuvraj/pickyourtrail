@@ -60,7 +60,7 @@ Run as a Java Application
 
 Input:
 Enter the array length : 3
-1
+Enter the elements :1
 1
 3
 
